@@ -1,4 +1,4 @@
-#Anlysis The Incident
+# Analysis The Incident
 ## Kegagalan Jembatan Tacoma Narrows
 ![tacoma 1](https://user-images.githubusercontent.com/62864891/94356062-3fd57880-00b4-11eb-96bb-05fa1ec16517.jpeg)
 
@@ -17,4 +17,7 @@ Jembatan Tacoma yang baru telah berdiri kembali dengan mempertahankan panjang be
 ![tacoma 4](https://user-images.githubusercontent.com/62864891/94356205-cdfe2e80-00b5-11eb-8f3c-93acf32cb0f5.jpg)
 
 ### Create a UX mockup to improve the design
-**Dibuat menggunakan aplikasi inkscape
+
+![Improve Mockup Design](https://user-images.githubusercontent.com/62864891/94358018-03ac1300-00c8-11eb-9c57-c92d23f1f62d.png)
+
+>Dibuat menggunakan aplikasi Paint
