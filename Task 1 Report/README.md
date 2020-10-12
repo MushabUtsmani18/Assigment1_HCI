@@ -1,11 +1,11 @@
-## Task 1 ##
+# Inventory Stock #
 
-- [ ] Pick the app with fitting criteria
-- [ ] conduct an evaluation of the app in term of appearance and interaction control
-- [ ] Give reasoning why it isn’t pleasant or cumbersome to use
-- [ ] Pointed out the flaw in interaction control
-- [ ] Identify Key business use cases
-- [ ] The output of this task is key use cases, key activity diagrams, and narration
+![Inventory Stock](https://user-images.githubusercontent.com/62864891/95787291-6aa20c80-0d03-11eb-8e57-dee6052a173b.png)
 
-## Link Aplikasi ##
-> -empty-
+
+
+## Give reasoning why it isn’t pleasant or cumbersome to use
+## Pointed out the flaw in interaction control
+## Identify Key business use cases
+## The output of this task is key use cases, key activity diagrams, and narration
+
