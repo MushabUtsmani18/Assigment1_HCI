@@ -1,12 +1,11 @@
-# Assigment1_HCI
-## Team B
-1. **Mushab Utsmani I [1313618023]**
-2. **Yusriizal Piliyang[1313618022]**
-3. **Fajar Nurrahman [1313618038]**
-#### Task 1 report
-> https://github.com/MushabUtsmani18/Assigment1_HCI/tree/master/Task%201
-#### Task 2 report
-> https://github.com/MushabUtsmani18/Assigment1_HCI/tree/master/Task%202
+# Assigment2_HCI
 
-**Video wawancara**
-> https://youtu.be/c2AGeC_algA
+## Team B
+1. **Mushab Utsmani I [1313618023]** - [MushabUtsmani18](https://github.com/MushabUtsmani18)
+2. **Yusriizal Piliyang[1313618022]** - [yuriizal](https://github.com/yusriizal)
+3. **Fajar Nurrahman [1313618038]** - [fajarnurrahman09](https://github.com/fajarnurrahman09)
+
+#### Task 1 report
+> -
+#### Task 2 report
+> -
