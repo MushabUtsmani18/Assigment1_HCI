@@ -34,5 +34,5 @@ Fitur kunci yang dimiliki aplikasi ini yakni:
 2. Kelola transaksi yaitu arus keluar-masuk barang dan uang.
 3. Kelola laporan 
 
-## key activity diagrams
+## Key activity diagrams
 
