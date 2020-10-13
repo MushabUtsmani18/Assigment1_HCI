@@ -5,7 +5,7 @@
 - Nama Aplikasi : Inventory Stock
 - Developer : komputerkit.com
 - Kontak Developer : komputerkit.dev@gmail.com
-- Link Aplikasi : https://play.google.com/store/apps/details?id=com.komputerkit.inventorystock
+- Link Aplikasi : [Inventory Stock](https://play.google.com/store/apps/details?id=com.komputerkit.inventorystock)
 
 ## Team B
 1. **Mushab Utsmani I [1313618023]** - [MushabUtsmani18](https://github.com/MushabUtsmani18)
