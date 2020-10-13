@@ -13,6 +13,6 @@
 3. **Fajar Nurrahman [1313618038]** - [fajarnurrahman09](https://github.com/fajarnurrahman09)
 
 #### Task 1 report
-> https://github.com/mushabui/Assigment_HCI/tree/hw2/Task%201%20Report
+> [Task 1 Report] (https://github.com/mushabui/Assigment_HCI/tree/hw2/Task%201%20Report)
 #### Task 2 report
-> https://github.com/mushabui/Assigment_HCI/tree/hw2/Task%202%20Report
+> [Task 2 Report] (https://github.com/mushabui/Assigment_HCI/tree/hw2/Task%202%20Report)
