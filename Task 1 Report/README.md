@@ -10,9 +10,9 @@ Inventory Stock memiliki fitur-fitur antara lain akses tanpa internet, kelola ba
 
 Secara tampilan aplikasi ini cukup sederhana, tidak terlalu ramau ataupun sepi. Penempatan tata letak sudah cukup bagus sehingga dapat dipahami dengan mudah, dalam penggunaan aplikasi pun cukup responsif untuk digunakan. Namun ada beberapa kekurangan yang kami temui kemudian yaitu:
 
-1. -
-2. -
-3. -
+1. Penempatan bagian pada kategori master terlalu banyak, padahal bisa dijadikan satu fitur langsung.
+2. Tidak ada keterangan atau petunjuk pada fitur tertentu sehingga cukup membingungkan/.
+3. Pada fitur barang masuk-keluar semua barang, semua barang dilist kebawah tidak ada pembagian kategori
 4. -
 
 
@@ -23,7 +23,7 @@ Dalam interaksi kontrol, kami menemukan beberapa hal yang cukup menggangu dalam 
 1. Tidak adanya menu pengaturan, sehingga harus mengubah manual pada menu-menunya.
 2. Pada beberapa menu, pengguna akan langsung diarahkan ke Youtube untuk melihat cara menggunakannya dan berulang.
 3. Tidak bisa langung menuju home, harus melakukan back secara terus menerus agar bisa kembali ke home.
-4.
+4. Tidak adanya fitur keamanan untuk mencegah orang asing untuk menggunakan aplikasi.
 
 
 ## Identify Key business use cases
