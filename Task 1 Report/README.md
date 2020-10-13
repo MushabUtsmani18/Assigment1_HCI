@@ -36,3 +36,5 @@ Fitur kunci yang dimiliki aplikasi ini yakni:
 
 ## Key activity diagrams
 
+![Activity Diagram](https://user-images.githubusercontent.com/62864891/95829438-6eb04780-0d60-11eb-990f-e17d3b37fd72.png)
+
