@@ -13,6 +13,7 @@ Inventory Stock memiliki fitur-fitur antara lain akses tanpa internet, kelola ba
 - Developer : komputerkit.com
 - Kontak Developer : komputerkit.dev@gmail.com
 - Link Aplikasi : [Inventory Stock](https://play.google.com/store/apps/details?id=com.komputerkit.inventorystock)
+- Website : [Visit Website](http://komputerkit.com)
 
 ## Day Report ##
 
