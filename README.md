@@ -2,12 +2,15 @@
 
 ![Inventory Stock](https://user-images.githubusercontent.com/62864891/95829628-ac14d500-0d60-11eb-8c81-0a9bfcc4a482.png)
 
+### Informasi Aplikasi
 - Nama Aplikasi : Inventory Stock
 - Developer : komputerkit.com
 - Kontak Developer : komputerkit.dev@gmail.com
 - Link Aplikasi : [Inventory Stock](https://play.google.com/store/apps/details?id=com.komputerkit.inventorystock)
 - Website : [Visit Website](http://komputerkit.com)
 
+### Informasi Developer
+> komputerkit.com adalah developer aplikasi android yang bergiat pada pengembangan aplikasi administratif dan penjualan. Developer ini beralamat di Sidoarjo, Jawa Timur
 
 ## Team B
 1. **Mushab Utsmani I [1313618023]** - [MushabUtsmani18](https://github.com/MushabUtsmani18)
