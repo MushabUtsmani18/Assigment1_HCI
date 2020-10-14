@@ -17,10 +17,14 @@ Inventory Stock memiliki fitur-fitur antara lain akses tanpa internet, kelola ba
 ## Day Report ##
 
 ### 1st Day: 
-Discussion of why the app does having problem (recorded)
+- Discussion of why the app does having problem : [Record]
+
 ### 2nd Day: 
-Two persons from your team are to works on competing design equipped with material design principle
+- Design Mockup Original Aplikasi Inventory Stock : [Link](https://github.com/mushabui/Assigment_HCI/tree/hw2/Task%202%20Report/Interface%20Inventory%20Stock)
+- Design Mockup Alternatif : [Link](https://github.com/mushabui/Assigment_HCI/tree/hw2/Task%202%20Report/Design%20Mockup%20Alternatif)
+
 ### 3rd Day: 
-Each person to represent his/her design along with its navigation. At this stage of the day, your team are also to involve random by passers for the voting (recorded)
+- Voting Design : [Record]
+
 ### 4th Day: 
-Appeal to customer. Your customer in this case is app developer. You are to conduct dialogue with him and explain why your improved design is necessary. Listen to the feedback (recorded). 
+- Appeal to customer. Your customer in this case is app developer. You are to conduct dialogue with him and explain why your improved design is necessary. Listen to the feedback (recorded). 
