@@ -18,7 +18,7 @@ Inventory Stock memiliki fitur-fitur antara lain akses tanpa internet, kelola ba
 ## Day Report ##
 
 ### 1st Day: 
-- Discussion of why the app does having problem : [Record]
+- Discussion of why the app does having problem : [Record](https://youtu.be/m0fbmq9kqt4)
 
 ### 2nd Day: 
 - Design Mockup Original Aplikasi Inventory Stock : [Link](https://github.com/mushabui/Assigment_HCI/tree/hw2/Task%202%20Report/Interface%20Inventory%20Stock)
